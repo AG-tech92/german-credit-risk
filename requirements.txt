@@ -1,0 +1,22 @@
+# German Credit Risk Analysis - Requirements
+# Core Data Science Stack
+pandas>=2.3.0
+numpy>=1.24.0
+scikit-learn>=1.7.0
+xgboost>=3.0.0
+
+# Visualization Libraries
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Machine Learning Interpretability
+shap>=0.48.0
+
+# Development Environment
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.0.0
+
+# Utilities
+joblib>=1.3.0
